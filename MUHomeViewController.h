@@ -1,0 +1,13 @@
+//
+//  MUHomeViewController.h
+//  MatchedUp
+//
+//  Created by Kurt Walker on 8/15/14.
+//  Copyright (c) 2014 Matched Up. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface MUHomeViewController : UIViewController
+
+@end
